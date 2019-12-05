@@ -1,0 +1,80 @@
+baseurl = ""
+title = "Ahmed Massoud DevOps Project"
+
+theme = "T1"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "devopsFinal"
+
+[params]
+    author = "About"
+    info = "My intro"
+    keywords = "blog,developer,personal" 
+    description = ""
+    avatarurl = "images/dev.webp"
+    footercontent = "Dev Ops Project 047"
+
+
+
+
+    hideCredits = true
+    hideCopyright = false
+
+
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "dark"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+    
+    # Custom JS
+    custom_js = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "About course"
+    weight = 1
+    url  = "posts/about-this-course"
+[[params.social]]
+    name = "About learning"
+    weight = 2
+    url  = "posts/about-learning"
+
+[[menu.main]]
+    name = "About course"
+    weight = 1
+    url  = "posts/about-this-course"
+[[menu.main]]
+    name = "About learning"
+    weight = 2
+    url  = "posts/about-learning"
+
+
+
+
+
+
+
