@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ahmed Massoud DevOps Project</title>
-    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-047-advanced/posts/</link>
+    <link>/cs-ej4101-fall-2019-047-advanced/posts/</link>
     <description>Recent content in Posts on Ahmed Massoud DevOps Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-047-advanced/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/cs-ej4101-fall-2019-047-advanced/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About learning</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-047-advanced/posts/about-learning/</link>
+      <link>/cs-ej4101-fall-2019-047-advanced/posts/about-learning/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-047-advanced/posts/about-learning/</guid>
+      <guid>/cs-ej4101-fall-2019-047-advanced/posts/about-learning/</guid>
       <description>Learning 047 My text will go here Click here to get back to the Home page</description>
     </item>
     
     <item>
       <title>About This course</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-047-advanced/posts/about-this-course/</link>
+      <link>/cs-ej4101-fall-2019-047-advanced/posts/about-this-course/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-047-advanced/posts/about-this-course/</guid>
+      <guid>/cs-ej4101-fall-2019-047-advanced/posts/about-this-course/</guid>
       <description>This course 047 text should go here Click here to get back to the Home page
 Y</description>
     </item>
