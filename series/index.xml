@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Ahmed Massoud DevOps Project</title>
-    <link>/cs-ej4101-fall-2019-047-advanced/series/</link>
+    <link>/series/</link>
     <description>Recent content in Series on Ahmed Massoud DevOps Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/cs-ej4101-fall-2019-047-advanced/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
