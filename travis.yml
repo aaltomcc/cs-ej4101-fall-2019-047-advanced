@@ -4,6 +4,7 @@ install:
 
 script:
   - hugo
+  - hugo server -D
 
 deploy:
   provider: pages
